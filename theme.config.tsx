@@ -10,17 +10,20 @@ const config: DocsThemeConfig = {
   head: (
     <>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta property="og:title" content="CC" />
-    <meta property="og:description" content="SSS" />
+    <meta property="og:title" content="Chaos&Cosmos Media House." />
+    <meta property="og:description" content="Chaos&Cosmos Media House." />
+    <meta httpEquiv="Content-Language" content="en" />
+    <meta name="description" content="Chaos&Cosmos Media House." />
+    <link rel="icon" href="/favicon.svg" />
   </>
   ),
   logo: (
     <>
       <svg width="100" height="48" version="1.1" viewBox="0 0 26.46 12.7" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.3245 0 0 .3245 .5032 .5437)">
-  <g transform="matrix(.08701 0 0 .08701 -49.76 -96.6)" clip-rule="evenodd" fill="#fc0" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
-   <path d="m642 1181h41v41h-41z"/>
-  </g>
+        <g transform="matrix(.3245 0 0 .3245 .5032 .5437)">
+          <g transform="matrix(.08701 0 0 .08701 -49.76 -96.6)" clip-rule="evenodd" fill="#fc0" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
+            <path d="m642 1181h41v41h-41z"/>
+          </g>
   <g transform="matrix(.08701 0 0 .08701 -28.36 -93.03)" clip-rule="evenodd" fill="#fc0" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
    <path d="m642 1181h41v41h-41z"/>
   </g>
