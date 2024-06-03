@@ -3,7 +3,8 @@
     "title":"Introduction"
   },
   "testimonials": "Testimonials",
-  "projects": "Projects",
+  "webprojects": "Web projects",
+  "printedprojects": "Printed media projects",
   "about": {
     "title": "About",
     "type": "page"
